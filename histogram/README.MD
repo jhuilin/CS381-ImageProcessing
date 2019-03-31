@@ -5,6 +5,7 @@
 # then the code will calculate the histogram of the image, the output histogram will be output
 
 ## demonstration
+# input image
 ![Image of launch app](./image/over.jpg)
-# the histogram of the exposure image
+# the histogram of the image
 ![Image of launch app](./image/overHist.png)
